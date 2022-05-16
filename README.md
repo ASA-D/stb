@@ -3,9 +3,9 @@
 stb
 ===
 
-single-file public domain (or MIT licensed) libraries for C/C++
+C/C++ 用のシングルファイルパブリックドメイン (または MIT ライセンス) ライブラリ
 
-Noteworthy:
+特記事項:
 
 * image loader: [stb_image.h](stb_image.h)
 * image writer: [stb_image_write.h](stb_image_write.h)
